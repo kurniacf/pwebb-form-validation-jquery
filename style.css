@@ -1,0 +1,35 @@
+body {
+    background-color: #EDEDED;
+    color: #000000;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    margin: 0;
+    margin: auto;
+    position: relative;
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 1.1;
+    margin: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+label {
+    display: block;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
